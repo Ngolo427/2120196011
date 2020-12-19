@@ -1,2 +1,2 @@
 # 2120196011
-Android projet to create a students managment system to manage students records. 
+For my Android final project, I created an Address Book application that is use by a user to manager his contact address. 
